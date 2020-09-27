@@ -1,0 +1,96 @@
+version 2
+run General-0-20200612-20:31:13-2228
+attr configname General
+attr datetime 20200612-20:31:13
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network EvolutionOfNodes_EONs
+attr processid 2228
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar EvolutionOfNodes_EONs.node[0] #sent 0
+scalar EvolutionOfNodes_EONs.node[0] #received 0
+statistic EvolutionOfNodes_EONs.node[0] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+scalar EvolutionOfNodes_EONs.node[1] #sent 0
+scalar EvolutionOfNodes_EONs.node[1] #received 0
+statistic EvolutionOfNodes_EONs.node[1] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+scalar EvolutionOfNodes_EONs.node[2] #sent 0
+scalar EvolutionOfNodes_EONs.node[2] #received 0
+statistic EvolutionOfNodes_EONs.node[2] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+scalar EvolutionOfNodes_EONs.node[3] #sent 0
+scalar EvolutionOfNodes_EONs.node[3] #received 0
+statistic EvolutionOfNodes_EONs.node[3] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+scalar EvolutionOfNodes_EONs.node[4] #sent 0
+scalar EvolutionOfNodes_EONs.node[4] #received 0
+statistic EvolutionOfNodes_EONs.node[4] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+scalar EvolutionOfNodes_EONs.node[5] #sent 0
+scalar EvolutionOfNodes_EONs.node[5] #received 0
+statistic EvolutionOfNodes_EONs.node[5] "hop count"
+field count 0
+field mean nan
+field stddev nan
+field min nan
+field max nan
+field sum 0
+field sqrsum 0
+bin	-inf	0
+bin	0	0
+bin	1	0
+
